@@ -3,7 +3,7 @@
 - Sinh viên download hoặc clone repo này về máy và thực hiện bài làm trên chính souce base.
 - Không tắt vscode trong quá trình làm bài.
 - Chỉ mở duy nhất một cửa sổ vscode.
-- Thoát toàn bộ zalo, facebook, các ứng dụng nhắn tin, remote desktop như teamview, ...
+- Thoát toàn bộ zalo, facebook, các ứng dụng nhắn tin, remote desktop như teamview...
 
 # 1: Khởi chạy được dự án (1đ)
 
@@ -16,7 +16,7 @@
 
 # 3: Trang Home hiển thị được danh sách sản phẩm (4đ)
 
-- Mỗi sản phẩm phải có: tên, giá, hình ảnh, mô tả.
+- Mỗi sản phẩm phải có ít nhất: tên, giá, hình ảnh, mô tả.
   (thiếu mỗi thuộc tính trừ 0.5đ)
 
 # 4: Trang About hiển thị thông tin cá nhân gồm: (1đ)
